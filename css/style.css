@@ -101,6 +101,16 @@ nav li a.active {
     padding: 0;
     font-weight: bold;
 }
+.btn-resume{
+    border: 1px solid #ff5722;
+    background: #ff5722;
+    color: #fff;
+}
+.btn-resume:hover{
+    border: 1px solid #ff5722;
+    background: #fff;
+    color: #ff5722;
+}
 
 /* === Angle Bar === */
 .angleBar-1::before {
